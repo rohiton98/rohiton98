@@ -26,24 +26,7 @@
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="75" /></a>  
 </div>
 
-</td></tr></table>  
-
-<br/>  
-
-
-## Connect
-<div align="center">
-<a href="https://github.com/rohiton98" target="_blank">
-<img src="https://github.com/johan/svg-cleanups/blob/master/logos/twitter.svg" height="10px">
- </a>
-<a href="https://twitter.com/rohiton98" target="_blank">
-</a>
-<a href="https://linkedin.com/in/rohiton98" target="_blank">
-</a>
-<a href="https://medium.com/rohiton98" target="_blank">
-</a>  
-</div>  
-  
+</td></tr></table>    
 
 <br/>  
 
