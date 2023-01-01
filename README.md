@@ -34,7 +34,7 @@
 ## Connect
 <div align="center">
 <a href="https://github.com/rohiton98" target="_blank">
-<img src="https://github.com/johan/svg-cleanups/blob/master/logos/twitter.svg" >
+<img src="https://github.com/johan/svg-cleanups/blob/master/logos/twitter.svg" height="10%">
  </a>
 <a href="https://twitter.com/rohiton98" target="_blank">
 </a>
