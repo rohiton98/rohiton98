@@ -1,7 +1,5 @@
 ## <div align="center">I'm Rohit, Backend Software Engineer</div>  
  
-
-## Technologies I'm working on  
 <table><tr><td valign="top">
 
 <div align="center">  
